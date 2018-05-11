@@ -348,3 +348,13 @@ footer .row-cinza-escuro {
     background-color: #11171D;
     border-top: #242d37 1px solid;
 }
+
+footer .text-gray {
+    margin-top: 15px;
+    color: #666666;
+}
+
+footer .text-purple {
+    color: #613291;
+    margin-top: 15px;
+}
