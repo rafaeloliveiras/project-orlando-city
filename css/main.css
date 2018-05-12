@@ -418,9 +418,11 @@ footer .touch address {
     font-size: 14px;
     font-family: Arial;
     color: #666666;
+    margin-bottom: 5px;
 }
 
-footer .touch p {
+footer .touch p,
+a {
     font-size: 14px;
     font-family: Arial;
     color: #666666;
@@ -429,4 +431,26 @@ footer .touch p {
 footer .touch i {
     font-size: 20px;
     color: #666666;
+}
+
+footer .list-social a {
+    display: block;
+    border: 1px solid;
+    width: 28px;
+    height: 28px;
+    margin-top: -10px;
+    line-height: 30px;
+    border-radius: 14px;
+    color: #9B9B9B;
+    text-align: center;
+}
+
+footer .list-social i {
+    margin: 4px auto;
+    font-size: 16px;
+}
+
+footer .list-social li {
+    display: inline-block;
+    inline-size: 35px;
 }
