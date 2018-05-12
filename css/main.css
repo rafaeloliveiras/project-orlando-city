@@ -352,9 +352,81 @@ footer .row-cinza-escuro {
 footer .text-gray {
     margin-top: 15px;
     color: #666666;
+    line-height: 30px;
+    font-family: "Open-Sans"
 }
 
 footer .text-purple {
     color: #613291;
-    margin-top: 15px;
+    line-height: 50px;
+    font-family: "Open-Sans"
+}
+
+footer .logotipo {
+    margin-top: 28px;
+}
+
+footer .popular-posts h4 {
+    margin-top: 40px;
+    border-bottom: #242D37 1px solid;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Open-Sans";
+    text-transform: uppercase;
+    padding-bottom: 14px;
+}
+
+footer .popular-posts li {
+    color: #666666;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+footer .popular-posts time {
+    color: #FDE092;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+footer .pop-links h4 {
+    margin-top: 40px;
+    border-bottom: #242D37 1px solid;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Open-Sans";
+    text-transform: uppercase;
+    padding-bottom: 14px;
+}
+
+footer .pop-links a {
+    color: #fff;
+    font-size: 14px;
+    font-family: "Open-Sans";
+}
+
+footer .touch h4 {
+    margin-top: 40px;
+    border-bottom: #242D37 1px solid;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Open-Sans";
+    text-transform: uppercase;
+    padding-bottom: 14px;
+}
+
+footer .touch address {
+    font-size: 14px;
+    font-family: Arial;
+    color: #666666;
+}
+
+footer .touch p {
+    font-size: 14px;
+    font-family: Arial;
+    color: #666666;
+}
+
+footer .touch i {
+    font-size: 20px;
+    color: #666666;
 }
